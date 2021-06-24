@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="bio_text">My name is Nikhil Anand.
+        \n\nI’m the product development manager at Smart Solutions.
+        \nI’ve created over a dozen apps designed to streamline sales
+        \nand marketing activities for busy professionals. I see myself
+        \nas a relentless problem-solver, and I’m always looking for a
+        new challenge.\n\n I’ve recently gotten interested in recreational
+        boating and noticed that the sales professionals at Dockside
+        Boats don’t seem to have a streamlined system for tracking
+        their sales. \n\nI’d love to discuss your needs in this area and
+        find out if you’re interested in participating in beta testing
+        for a new sales app I’m developing.</string>
+    <string name="nikhil_anand">Nikhil Anand</string>
+    <string name="done">done</string>
+    <string name="what_is_your_nikname">What is your nikname ?</string>
+</resources>
